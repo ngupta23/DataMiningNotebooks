@@ -12,3 +12,9 @@ git clone https://github.com/eclarson/DataMiningNotebooks.git
 This will install the entire git repository into a new directory and you can always update the directory via git. 
 
 Please direct any questions to the course instructor or to Professor Larson (eclarson@smu.edu)
+
+# Note:
+This reporisoty has been forked over from Dr. Eric Larson's MSDS Data Mining Class Repository. The code has been updated to Python3 whereever possible and compatability issues with the latest version of the libraries has been fixed
+
+### Week 1
+* Fixed code for rpy2 and compatability with Windows
